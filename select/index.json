@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "About You",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-16T15:57:01.806082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Songs About You",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/01_Songs_About_You_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don't Know About You",
+      "artist": "Chris Lane",
+      "has_synced": true,
+      "path": "select/02_I_Don't_Know_About_You_Chris_Lane.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Think About You",
+      "artist": "Collin Raye",
+      "has_synced": true,
+      "path": "select/03_I_Think_About_You_Collin_Raye.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Think About You (Album Version)",
+      "artist": "Collin Raye",
+      "has_synced": true,
+      "path": "select/04_I_Think_About_You_(Album_Version)_Collin_Raye.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It Ain't Cool To Be Crazy About You",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_It_Ain't_Cool_To_Be_Crazy_About_You_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It Ain't Cool To Be Crazy About You (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/06_It_Ain't_Cool_To_Be_Crazy_About_You_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love That About You",
+      "artist": "Filmore",
+      "has_synced": true,
+      "path": "select/07_Love_That_About_You_Filmore.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Song About You",
+      "artist": "Sam Grow",
+      "has_synced": true,
+      "path": "select/08_Song_About_You_Sam_Grow.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "That's What I Like About You",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/09_That's_What_I_Like_About_You_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That's What I Like About You (Album Version)",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/10_That's_What_I_Like_About_You_(Album_Version)_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That's What I Like About You (Album Version)",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/11_That's_What_I_Like_About_You_(Album_Version)_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thinkin' About You",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/12_Thinkin'_About_You_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thinkin' About You (Album Version)",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/13_Thinkin'_About_You_(Album_Version)_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Truth About You",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/14_Truth_About_You_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What Am I Gonna Do About You",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/15_What_Am_I_Gonna_Do_About_You_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's All About You (Not About Me)",
+      "artist": "Tracie Spencer",
+      "has_synced": false,
+      "path": "select/16_It's_All_About_You_(Not_About_Me)_Tracie_Spencer.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Something About You (Love The World)",
+      "artist": "LL Cool J feat. Charlie Wilson, Earth, Wind & Fire & Melody Thornton",
+      "has_synced": false,
+      "path": "select/17_Something_About_You_(Love_The_World)_LL_Cool_J_feat._Charlie_Wilson,_Earth,_Wind_&_Fire_&_Melody_Thornton.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "About You",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_About_You_ロクデナシ.txt"
+    }
+  ]
+}
